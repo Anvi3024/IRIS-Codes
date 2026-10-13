@@ -1,0 +1,53 @@
+{
+  "assets": {
+    "manuscript.md": {
+      "source_path": "paper/manuscript.md",
+      "sha256": "598f2127a05406db3ad9d86d855785e8889fd15ab51ea2be760d606412358279"
+    },
+    "source_registry.csv": {
+      "source_path": "data/source_registry.csv",
+      "sha256": "e938a903d71e8256f37f68e8d911f49f545267519d6a03a384bf440809eff63d"
+    },
+    "figures/01_historical_context.png": {
+      "source_path": "outputs/research_summary/figures/01_historical_context.png",
+      "sha256": "12a2c4cdaab8bbc38dac06bc0c9cf2b24901dd8b04b693f6a78e0569eb469604"
+    },
+    "figures/02_reference_policy_comparison.png": {
+      "source_path": "outputs/research_summary/figures/02_reference_policy_comparison.png",
+      "sha256": "c9552cbe9594cd2246eecb2ba1143bb099e565f659d5b91da277f99704e417dc"
+    },
+    "figures/03_resource_rankings.png": {
+      "source_path": "outputs/research_summary/figures/03_resource_rankings.png",
+      "sha256": "92380fd87188d5ce9cdde124acef0af6e1c5ceff45263ad092a75eaa56468a05"
+    },
+    "figures/04_input_sensitivity_ranges.png": {
+      "source_path": "outputs/research_summary/figures/04_input_sensitivity_ranges.png",
+      "sha256": "aa812963f5137d44e7c92914c60edb429b2cee28538424ea7d9ef5eed83ca48d"
+    },
+    "tables/01_historical_context.csv": {
+      "source_path": "outputs/research_summary/tables/01_historical_context.csv",
+      "sha256": "03c9d9797512a589f1f46396e5351c770c8f278e445d8f6a9e3a324521a12ed6"
+    },
+    "tables/02_v1_complete_paired_cells.csv": {
+      "source_path": "outputs/research_summary/tables/02_v1_complete_paired_cells.csv",
+      "sha256": "a0a85ab4d1d5d1d291f03418959ea1ec4c46b7811d61f38abdd320259bfe3d9d"
+    },
+    "tables/03_v2_rankings_by_resource_pattern.csv": {
+      "source_path": "outputs/research_summary/tables/03_v2_rankings_by_resource_pattern.csv",
+      "sha256": "ee9cbb33f7d77520f2bd3d0d3f69f4a8c2d4bdd9e3b39cc6fe844db87c8b966b"
+    },
+    "tables/04_v2_source_vector_ranges.csv": {
+      "source_path": "outputs/research_summary/tables/04_v2_source_vector_ranges.csv",
+      "sha256": "cfad057675b1c65e9438db93b2f120bc9579b0f011ecf19ea0c7101f813c7256"
+    },
+    "tables/05_measurement_checks.csv": {
+      "source_path": "outputs/research_summary/tables/05_measurement_checks.csv",
+      "sha256": "442c95ea977d765823bb7b0814eb67d8c79378fc67ccc938453ad0fe6896da5c"
+    }
+  },
+  "scope": "curated draft manuscript and complete consolidated figures/tables",
+  "simulation_run": false,
+  "research_record_deleted": false,
+  "internal_notes_exported": false,
+  "assistance_disclosure_retained": true
+}
